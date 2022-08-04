@@ -1,5 +1,7 @@
 # Hi there :wave:, I'm Kevin Esslinger! But you can call me Kev
 
+:rotating_light: I am officially looking for a job! Looking for Machine Learning Engineer, Data Scientist, and Software Engineering positions with a Q1 2023 start date. Preferred locations include United States and The Netherlands. Open to remote work. Check out my resume [here](resume.pdf).
+
 Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird:, an invitation to connect :inbox_tray:, or an email :email:! (Or all of the above :grin:)
 
 [![Discord Badge](https://img.shields.io/badge/kevslinger-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/359472120704532493)
@@ -8,7 +10,7 @@ Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird
 [![Outlook](https://img.shields.io/badge/esslinger.k@northeastern.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:esslinger.k@northeastern.edu)
 
 ## Bio
-- :man_technologist: PhD student at [Northeastern University](https://www.northeastern.edu) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, Massachusetts. Co-advised by [Chris Amato](https://llpr.ccs.neu.edu/) and [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/), working on using transformers to solve challenging, partially observable tasks with reinforcement learning
+- :man_technologist: Master's student at [Northeastern University](https://www.northeastern.edu) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, Massachusetts. Co-advised by [Chris Amato](https://llpr.ccs.neu.edu/) and [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/), working on using transformers to solve challenging, partially observable tasks with reinforcement learning
 - :mortar_board: Bachelor of Science in Computer Science and Mathematics with a minor in Data Science from [Temple University](https://www.temple.edu/) in Philadelphia, Pennsylvania. Graduated Summa Cum Laude
 - :eagle: Achieved the rank of [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
 
