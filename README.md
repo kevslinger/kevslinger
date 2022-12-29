@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm Kevin Esslinger! But you can call me Kev
 
-:rotating_light: I am officially looking for a job! Looking for Machine Learning Engineer, Data Scientist, and Software Engineering positions with a Q1 2023 start date. Preferred locations include United States and The Netherlands. Open to remote work. Check out my resume [here](resume.pdf).
+:rotating_light: I am excited to share I'm moving to the Netherlands for work in Summer 2023! More details to come shortly.
 
 Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird:, an invitation to connect :inbox_tray:, or an email :email:! (Or all of the above :grin:)
 
@@ -29,6 +29,7 @@ Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird
 - :video_game: Teamfight Tactics and Magic: the Gathering player
 - :basketball: NBA and NCAA basketball fan (Go 6ers and UMich!)
 - :coffee: Latte art amateur
+- :scroll: Check out my resume [here](resume.pdf)
 
 
 <!--
