@@ -10,8 +10,9 @@ Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird
 [![Outlook](https://img.shields.io/badge/esslinger.k@northeastern.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:esslinger.k@northeastern.edu)
 
 ## Bio
-- :man_technologist: Master's student at [Northeastern University](https://www.northeastern.edu) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, Massachusetts. Co-advised by [Chris Amato](https://llpr.ccs.neu.edu/) and [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/), working on using transformers to solve challenging, partially observable tasks with reinforcement learning
-- :mortar_board: Bachelor of Science in Computer Science and Mathematics with a minor in Data Science from [Temple University](https://www.temple.edu/) in Philadelphia, Pennsylvania. Graduated Summa Cum Laude
+- :man_technologist: Research Assistant at [Northeastern University](https://www.northeastern.edu) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, Massachusetts. Co-advised by [Chris Amato](https://llpr.ccs.neu.edu/) and [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/), working on using transformers to solve challenging, partially observable tasks with reinforcement learning
+- :mortar_board: Master of Science in Computer Science from [Northeastern University](https://www.northeastern.edu) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, Massachusetts. Graduated December 2022
+- :mortar_board: Bachelor of Science in Computer Science and Mathematics with a minor in Data Science from [Temple University](https://www.temple.edu/) in Philadelphia, Pennsylvania. Graduated Summa Cum Laude in May 2020
 - :eagle: Achieved the rank of [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout)
 
 ## My favourite technologies:
@@ -22,7 +23,7 @@ Want to chat? Feel free to send me a message :mailbox_with_mail:, a follow :bird
 
 
 ## News
-- :notebook: My first paper, *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning*, is now available as a preprint [here](https://arxiv.org/abs/2206.01078) on arXiv! The code for the paper is available at my [DTQN](https://github.com/kevslinger/DTQN) repo
+- :notebook: My first paper, *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning*, was published to the Neurips 2022 Workshop on Foundation Models for Decision Making! It's publicly available [here](https://arxiv.org/abs/2206.01078) on arXiv. The code for the paper is available at my [DTQN](https://github.com/kevslinger/DTQN) repo
 
 ## More about me
 - :mage: Harry Potter geek
